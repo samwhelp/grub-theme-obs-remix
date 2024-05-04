@@ -26,9 +26,9 @@
 ## Theme Source
 
 | Theme Source |
-| ------ |
-| [Pling](https://www.pling.com/p/1577873/) |
-| [GitHub](https://github.com/sandesh236/obs-grub-theme) |
+| ------------ |
+| GitHub / obster-y / [grub-theme-obs](https://github.com/obster-y/grub-theme-obs) |
+| [grub-theme-obs-refactoring](https://github.com/samwhelp/grub-theme-obs-refactoring)
 
 
 
