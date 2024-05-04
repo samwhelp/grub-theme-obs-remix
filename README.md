@@ -28,7 +28,7 @@
 | Theme Source |
 | ------------ |
 | GitHub / obster-y / [grub-theme-obs](https://github.com/obster-y/grub-theme-obs) |
-| [grub-theme-obs-remix](https://github.com/samwhelp/grub-theme-obs-remix) |
+| [grub-theme-obs-refactoring](https://github.com/samwhelp/grub-theme-obs-refactoring) |
 
 
 
