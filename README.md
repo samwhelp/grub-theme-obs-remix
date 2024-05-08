@@ -18,6 +18,7 @@
 * [Theme File](#theme-file)
 * [Install](#install)
 * [Apply](#apply)
+* [Helper](#helper)
 * [Docs](#docs)
 
 
@@ -111,6 +112,17 @@ or run
 ``` sh
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
+
+
+
+
+## Helper
+
+| Helper |
+| ------ |
+| [background-selector](https://github.com/samwhelp/grub-theme-obs-remix/tree/main/helper/background-selector) |
+| [style-selector](https://github.com/samwhelp/grub-theme-obs-remix/tree/main/helper/style-selector) |
+| [region-selector](https://github.com/samwhelp/grub-theme-obs-remix/tree/main/helper/region-selector) |
 
 
 
