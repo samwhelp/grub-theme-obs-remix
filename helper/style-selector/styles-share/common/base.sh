@@ -367,6 +367,12 @@ base_var_dump () {
 	util_debug_echo "THE_GRUB_THEME_BACKGROUND_FILE_PATH=${THE_GRUB_THEME_BACKGROUND_FILE_PATH}"
 	util_debug_echo
 
+	util_debug_echo "THE_GRUB_THEME_ASSET_DIR_NAME=${THE_GRUB_THEME_ASSET_DIR_NAME}"
+	util_debug_echo "THE_GRUB_THEME_ASSET_DIR_PATH=${THE_GRUB_THEME_ASSET_DIR_PATH}"
+	util_debug_echo
+
+
+
 
 	##
 	############################################################################
